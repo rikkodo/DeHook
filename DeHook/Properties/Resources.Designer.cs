@@ -69,5 +69,15 @@ namespace DeHook.Properties {
                 return ((System.Drawing.Icon)(obj));
             }
         }
+        
+        /// <summary>
+        ///   (アイコン) に類似した型 System.Drawing.Icon のローカライズされたリソースを検索します。
+        /// </summary>
+        internal static System.Drawing.Icon OUT_0000 {
+            get {
+                object obj = ResourceManager.GetObject("OUT_0000", resourceCulture);
+                return ((System.Drawing.Icon)(obj));
+            }
+        }
     }
 }
